@@ -1,0 +1,22 @@
+body {
+	/*background: green;*/
+}
+
+.container {
+	margin: 2em auto;
+	max-width: 960px;
+}
+
+#chart_div {
+    width: 50%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.card {
+	background: #f1f1f1;
+	display: inline-block;
+	margin-right: 2%;
+	padding: 1em;
+	text-align: center;
+}
